@@ -18,7 +18,10 @@ body {
     line-height: 50px; /*设置line-height和包含块高度一致，以实现行内元素垂直居中*/
     font-size: 20px;
   }
-   
+  #add_button{
+    float: right;
+  }
+  
   #add_list {
     float: right;
     margin-top: 11px;
@@ -29,7 +32,7 @@ body {
     font-size: 18px;
     text-indent: 10px;
   }
-   
+  
   h1 {
     position: relative;
   }
